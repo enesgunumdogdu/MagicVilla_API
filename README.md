@@ -2,17 +2,6 @@
 
 A modern and scalable RESTful Web API for villa management system. Built with .NET 7.0, this API provides full CRUD (Create, Read, Update, Delete) operations and JSON Patch support for managing villa information.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-
 ## ✨ Features
 
 - **RESTful API**: Villa management using standard HTTP methods
